@@ -1,0 +1,10 @@
+C:\Users\fabry\source\repos\Comercio_Botta\bin\Debug\Comercio_Botta.exe.config
+C:\Users\fabry\source\repos\Comercio_Botta\bin\Debug\Comercio_Botta.exe
+C:\Users\fabry\source\repos\Comercio_Botta\bin\Debug\Comercio_Botta.pdb
+C:\Users\fabry\source\repos\Comercio_Botta\obj\Debug\Comercio_Botta.csproj.AssemblyReference.cache
+C:\Users\fabry\source\repos\Comercio_Botta\obj\Debug\Comercio_Botta.Frm_Productos.resources
+C:\Users\fabry\source\repos\Comercio_Botta\obj\Debug\Comercio_Botta.Properties.Resources.resources
+C:\Users\fabry\source\repos\Comercio_Botta\obj\Debug\Comercio_Botta.csproj.GenerateResource.cache
+C:\Users\fabry\source\repos\Comercio_Botta\obj\Debug\Comercio_Botta.csproj.CoreCompileInputs.cache
+C:\Users\fabry\source\repos\Comercio_Botta\obj\Debug\Comercio_Botta.exe
+C:\Users\fabry\source\repos\Comercio_Botta\obj\Debug\Comercio_Botta.pdb
